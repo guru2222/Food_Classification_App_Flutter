@@ -1,0 +1,10 @@
+0 Dal
+1 Chole Bature
+2 Panner Butter Masala
+3 Dosa
+4 Pav Bhaji
+5 Naan
+6 kofta
+7 Vada pav
+8 Jalebi
+9 Idly
